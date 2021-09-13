@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="29.875" viewBox="0 0 27 29.875">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fdd444;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group">
+    <g id="Group-2" data-name="Group">
+      <circle id="Vector" class="cls-1" cx="13.5" cy="8.094" r="8.09"/>
+    </g>
+  </g>
+  <g id="Group-3" data-name="Group">
+    <g id="Group-4" data-name="Group">
+      <path id="Vector-2" data-name="Vector" class="cls-2" d="M1336.58,52.638a11.557,11.557,0,0,0-8.28-3.492h-3.6a11.557,11.557,0,0,0-8.28,3.492,11.831,11.831,0,0,0-3.42,8.328,0.9,0.9,0,0,0,.9.9h25.2a0.9,0.9,0,0,0,.9-0.9A11.831,11.831,0,0,0,1336.58,52.638Z" transform="translate(-1313 -32)"/>
+    </g>
+  </g>
+</svg>
